@@ -1,2 +1,2 @@
-# odin-recipe-
+# odin-recipe
 Project of recipes re-uploaded
